@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Web-Dev Projects.
 - 🤔 I’m looking for help with Backend Web Developement.
 - 💬 Ask me about C/C++/R/Frontend Web Developement/WordPress.
-- 📫 How to reach me: Email me @ satviktiwari.ec19@rvce.edu.in || LinkedIn: https://www.linkedin.com/in/satvik-tiwari-6a91881ab/
+- 📫 How to reach me: Email me @ satviktiwari.ec19@rvce.edu.in || LinkedIn: https://www.linkedin.com/in/satviktiwari/
 - 😄 Pronouns: Master
 - ⚡ Fun fact: News Junkie and an active Debator.
