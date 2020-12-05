@@ -1,6 +1,6 @@
 ### Hi! I am Satvik Tiwari! 👋
 
-- 🔭 I’m currently working on Full Stack Web Developement and Data Science using R.
+- 🔭 I’m currently working on Full Stack Web Development and Data Science using R.
 - 🌱 I’m currently learning Java Script, MERN stack and R.
 - 👯 I’m looking to collaborate on Web-Dev Projects.
 - 🤔 I’m looking for help with Backend Web Developement.
