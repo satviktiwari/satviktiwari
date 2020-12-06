@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java Script, MERN stack and R.
 - 👯 I’m looking to collaborate on Web-Dev Projects.
 - 🤔 I’m looking for help with Backend Web Developement.
-- 💬 Ask me about C/C++/R/HTML/CSS.
+- 💬 Ask me about C/C++/R/Python/HTML/CSS.
 - 📫 How to reach me: Email me @ satviktiwari.ec19@rvce.edu.in || LinkedIn: https://www.linkedin.com/in/satviktiwari/
 - 😄 Pronouns: Master
 - ⚡ Fun fact: News Junkie and an active Debator.
