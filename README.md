@@ -8,8 +8,8 @@ Data Science: R, SQL
 
 ⚡ Meet my other side -> A News Junkie, Observer of Geo-Politics & International Relations, Writer and Debater. Let's have a ☕ & discussion on these topics as well :)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" width="350" title="my stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="350" title="my stats">
+  
+</p>
