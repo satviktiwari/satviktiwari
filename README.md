@@ -1,13 +1,12 @@
-### Hi! I am Satvik Tiwari! 👋
+Hi!
+Myself Satvik. I'm pursuing BE degree in Electronics & Communication from RVCE, Bengaluru. I have keen interest in Programming, Data Science, Web Development and Science & Technology. I’m currently working on Web Development (using JavaScript) & Data Analysis (using R).
 
-- 🔭 I’m currently working on Full Stack Web Development and Data Science using R.
-- 🌱 I’m currently learning Java Script, MERN stack and R.
-- 👯 I’m looking to collaborate on Web-Dev Projects.
-- 🤔 I’m looking for help with Backend Web Developement.
-- 💬 Ask me about C/C++/R/Python/HTML/CSS.
-- 📫 How to reach me: Email me @ satviktiwari.ec19@rvce.edu.in || LinkedIn: https://www.linkedin.com/in/satviktiwari/
-- 😄 Pronouns: Master
-- ⚡ Fun fact: News Junkie and an active Debator.
+My Technical Skills:
+Programming Languages: C++, Python
+Web Development: HTML-CSS-Bootstrap, JavaScript, React
+Data Science: R, SQL
+
+⚡ Meet my other side -> A News Junkie, Observer of Geo-Politics & International Relations, Writer and Debater. Let's have a ☕ & discussion on these topics as well :)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia">
