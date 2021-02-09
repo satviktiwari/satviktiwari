@@ -13,6 +13,6 @@ Data Science: R, SQL
 ⚡ Meet my other side -> A News Junkie, Observer of Geo-Politics & International Relations, Writer and Debater. Let's have a ☕ & discussion on these topics as well :)
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" height="600" width="500" title="my stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="410" width="410" title="my stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" height="400" width="400" title="my stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="400" width="400" title="my stats">
 </p>
