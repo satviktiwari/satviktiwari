@@ -14,5 +14,5 @@ Data Science: R, SQL
 <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" height="400" width="400" title="my stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="400" width="400" title="my stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="300" width="300" title="my stats">
 </p>
