@@ -1,15 +1,15 @@
 Hi!
 <br>
 Myself Satvik. I'm pursuing BE degree in Electronics & Communication from RVCE, Bengaluru. I have keen interest in Programming, Data Science, Web Development and Science & Technology. I’m currently working on Web Development (using JavaScript) & Data Analysis (using R).
-<br>
+<br><br>
 My Technical Skills:
 <br>
-Programming Languages: C++, Python
+Programming Languages: C++, JavaScript
 <br>
 Web Development: HTML-CSS-Bootstrap, JavaScript, React
 <br>
 Data Science: R, SQL
-<br>
+<br><br>
 ⚡ Meet my other side -> A News Junkie, Observer of Geo-Politics & International Relations, Writer and Debater. Let's have a ☕ & discussion on these topics as well :)
 <br>
 <p>
