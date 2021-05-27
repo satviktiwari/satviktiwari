@@ -12,6 +12,8 @@
 
 - 🧠 I am currently learning: **Advanced Data Analysis using R**
 
+- 👨‍ Visit my portfolio here: **https://satviktiwari.github.io/portfolio/**
+
 - 📫 Contact me via mail at: **satvik140802@gmail.com**
 
 - 📫 Let's connect on LinkedIn: **https://www.linkedin.com/in/satviktiwari/**
