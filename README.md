@@ -1,4 +1,4 @@
-<h1 align="center">Hi, myself Satvik</h1>
+<h1 align="center">Hi, myself <a href="https://satviktiwari.netlify.app">Satvik</a></h1>
 <h3 align="center">A passionate Web Developer & Machine Learning enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satviktiwari" alt="satviktiwari" /> </p>
 
