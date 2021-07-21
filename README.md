@@ -1,4 +1,4 @@
-<h1 align="center">Hi, myself <a href="https://satviktiwari.netlify.app">Satvik</a></h1>
+<h1 align="center">Hi, myself <a href="https://satviktiwari.netlify.app">Satvik Tiwari</a></h1>
 <h3 align="center">ML Project Intern at WIRIN (Wipro IISc Innovation Network), Bangalore</h3>
 <h3 align="center">A passionate Web Developer, Data Analyst & Machine Learning enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satviktiwari" alt="satviktiwari" /> </p>
