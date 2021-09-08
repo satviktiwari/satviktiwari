@@ -21,7 +21,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats">
-  <img src="https://activity-graph.herokuapp.com/graph?username=satviktiwari&count_private=true">
 </p>
 
 
