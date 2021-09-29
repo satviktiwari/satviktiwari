@@ -1,7 +1,7 @@
 <h1 align="center">Hi, myself <a href="https://satviktiwari.netlify.app">Satvik Tiwari</a> !</h1>
 <h3 align="center">A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast</h3>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=satviktiwari" alt="satviktiwari" /> </p>
+<!-- <br> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=satviktiwari" alt="satviktiwari" /> </p> -->
 <h3 align="center">My Technical Skills:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
