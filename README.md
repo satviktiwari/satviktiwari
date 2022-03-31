@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi, myself <a href="https://satviktiwari.netlify.app">Satvik Tiwari</a> !!</h1>
-  <h3 align="center">A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast</h3>
+  <h3 align="center">"A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast"</h3>
   <br>
   <h4>Technical Skills: </h4>
   <p><b>Programming Languages:</b> C++ (proficient), C (basic), Python (basic), JavaScript (basic)</p>
