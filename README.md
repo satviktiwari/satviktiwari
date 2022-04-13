@@ -3,7 +3,7 @@
   <h3 align="center">"A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast"</h3>
   <br>
   <h4>Technical Skills: </h4>
-  <p><b>Programming Languages:</b> C++ (proficient), C (basic), Python (basic), JavaScript (basic)</p>
+  <p><b>Programming Languages:</b> C++ (proficient), C (basic), Java (basic), Python (basic), JavaScript (basic)</p>
   <p><b>Web Development:</b> HTML, CSS, JavaScript, React JS</p>
   <p><b>Database:</b> MySQL, Firebase</p>
   <p><b>Machine Learning:</b> Python, Open CV, Tensorflow</p>
