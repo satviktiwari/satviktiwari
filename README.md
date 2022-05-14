@@ -1,31 +1,16 @@
-<div>
-  <h1 align="center">Hi, myself <a href="https://satviktiwari.netlify.app">Satvik Tiwari</a> !!</h1>
-  <h3 align="center">"A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast"</h3>
+<div align="center">
+  <h1>Hi, myself <a href="https://satviktiwari.netlify.app">Satvik Tiwari</a> !!</h1>
+  <h3><i>"A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast"</i></h3>
   <br>
   <h4>Technical Skills: </h4>
-  <p><b>Programming Languages:</b> <u>Proficient</u>: C++; <u>Beginner</u>: C, Java;</p>
-  <p><b>Web Development:</b> HTML, CSS, JavaScript, React JS</p>
-  <p><b>Database:</b> MySQL, Firebase</p>
+  <p><b>Programming Languages:</b><i> Proficient </i>: C++; <i> Beginner </i>: C, Java;</p>
+  <p><b>Web Development:</b> HTML, CSS, JavaScript, MERN Stack, Django</p>
+  <p><b>Database:</b> MySQL, Firebase, MongoDB</p>
   <p><b>Machine Learning:</b> Python, Open CV, Tensorflow</p>
   <br>
-  <!-- <br> -->
-  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=satviktiwari" alt="satviktiwari" /> </p> -->
-<!--   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </p> -->
-
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats"><br>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats"> -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats" height="200">
   </p>
 </div>
 
