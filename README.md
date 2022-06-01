@@ -7,7 +7,6 @@
   <p><b>Web Development:</b> HTML, CSS, JavaScript, MERN Stack</p>
   <p><b>Database:</b> Firebase, MongoDB</p>
   <p><b>Machine Learning:</b> Python, Open CV, Tensorflow</p>
-  <br>
   <hr>
   <h4 >GitHub Stats: </h4>
   <p align="center">
