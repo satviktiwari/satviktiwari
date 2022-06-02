@@ -4,7 +4,7 @@
   <hr>
   <h4>Technical Skills: </h4>
   <p><b>Programming Languages:</b><i> Proficient </i>: C++; <i> Beginner </i>: C, Java;</p>
-  <p><b>Web Development:</b> HTML, CSS, JavaScript, MERN Stack</p>
+  <p><b>Web Development:</b> HTML, CSS, JavaScript, React JS, Express, Node JS</p>
   <p><b>Database:</b> Firebase, MongoDB</p>
   <p><b>Machine Learning:</b> Python, Open CV, Tensorflow</p>
   <hr>
