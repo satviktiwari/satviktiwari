@@ -1,20 +1,46 @@
-<div>
-  <h2 align="center">"Hi, myself <a href="https://satviktiwari.netlify.app/">Satvik Tiwari</a>!"</h2>
-  <h4 align="center"><i>"A Determined Problem Solver, Passionate Web Developer and Machine Learning Enthusiast"</i></h4>
-  <hr>
-  <h4>Technical Skills: </h4>
-  <p><b>Programming Languages:</b><i> Proficient </i>: C++; <i> Beginner </i>: C, Java;</p>
-  <p><b>Web Development:</b> HTML, CSS, JavaScript, React JS, Express, Node JS</p>
-  <p><b>Database:</b> Firebase, MongoDB</p>
-  <p><b>Machine Learning:</b> Python, Open CV, Tensorflow</p>
-  <hr>
-  <h4 >GitHub Stats: </h4>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&theme=algolia" title="my stats" height="200">
-  </p>
-</div>
+# Hi, I am <a href="https://satviktiwari.netlify.app">Satvik Tiwari<a/>!
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satviktiwari)
+<img alt="ViewCount" src="https://komarev.com/ghpvc/?username=satviktiwari" />
 
 
+## :wave: About Me
 
+I am a proficient and intentional programmer skilled in Data Structures, Algorithms & Full Stack Web Development.
 
+Presently, I am currently learning Back-End Web Development and Machine Learning.
+
+Fun Fact: I have solved 1500+ Problems across LeetCode, GeeksforGeeks, CodeChef & HackerRank.
+
+## 🛠 &nbsp;Tech Stacks
+- 
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=Node.JS)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+- 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+- 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
+  ![Firebase](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+- 
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=Latex)
+- 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## ✨ &nbsp;Github Stats
+![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satviktiwari&&show_icons=true&theme=algolia)
+
+## 💬 &nbsp;Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satviktiwari&&show_icons=true&theme=algolia)
