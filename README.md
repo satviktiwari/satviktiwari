@@ -6,11 +6,7 @@
 
 ## :wave: About Me
 
-I am a proficient and intentional programmer skilled in Data Structures, Algorithms & Full Stack Web Development.
-
-Presently, I am currently learning Back-End Web Development using Express & NodeJS.
-
-Fun Fact: I am highly interested in Geo-Politics & Current Affairs!
+I am a programmer skilled in Data Structures, Algorithms & Web Development
 
 ## 🛠 &nbsp;Tech Stacks
 - 
